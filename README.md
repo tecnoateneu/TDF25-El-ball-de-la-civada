@@ -12,10 +12,10 @@ Cada mòdul de 36 espigues anirà controlada per 4 servomotors per donar el movi
 Tenim previst posar focos per il·luminar la instal·lació que també aniran controlades per l’ordinador central. Juntament amb un parell de projectors que posin un fons a la instal·lació.
 
 
-## Estructura
+## Estructura repositoris
 
-___TDF25 El ball de la civada___ (aquest repositori): Documentació general i mecànica.
+[TDF25 El ball de la civada](https://github.com/tecnoateneu/TDF25-El-ball-de-la-civada) (aquest repositori): Documentació general i mecànica.
 
-___TDF25 Control supermodul___: Repositori amb la documentació de la part electronica i el software que controla els supermòduls.
+[TDF25 Control supermodul](https://github.com/tecnoateneu/TDF25-Control-supermodul): Repositori amb la documentació de la part electronica i el software que controla els supermòduls.
 
-___TDF25 Generador sequencies___: Repositori amb la decumentació per generar les seqüencies de moviment i llum.
+[TDF25 Generador sequencies](https://github.com/tecnoateneu/TDF25-Generador-sequencies)___: Repositori amb la decumentació per generar les seqüencies de moviment i llum.
