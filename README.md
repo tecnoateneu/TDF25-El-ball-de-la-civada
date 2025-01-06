@@ -1,6 +1,7 @@
 # TDF25 El ball de la civada
 Repositori general del projecte del TAV (Tecnoateneu de Vilablareix) pel "Temps de flors" del 2025 de la ciutat de Girona.
 
+![](Imatges/RenderGeneral.png "Esquema general")
 
 ## Descripció
 
@@ -18,4 +19,4 @@ Tenim previst posar focos per il·luminar la instal·lació que també aniran co
 
 [TDF25 Control supermodul](https://github.com/tecnoateneu/TDF25-Control-supermodul): Repositori amb la documentació de la part electronica i el software que controla els supermòduls.
 
-[TDF25 Generador sequencies](https://github.com/tecnoateneu/TDF25-Generador-sequencies)___: Repositori amb la decumentació per generar les seqüencies de moviment i llum.
+[TDF25 Generador sequencies](https://github.com/tecnoateneu/TDF25-Generador-sequencies): Repositori amb la decumentació per generar les seqüencies de moviment i llum.
