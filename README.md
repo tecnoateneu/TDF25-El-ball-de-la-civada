@@ -19,4 +19,6 @@ Tenim previst posar focos per il·luminar la instal·lació que també aniran co
 
 [TDF25 Control supermodul](https://github.com/tecnoateneu/TDF25-Control-supermodul): Repositori amb la documentació de la part electronica i el software que controla els supermòduls.
 
+[TDF25 Enviament Dades](https://github.com/tecnoateneu/TDF25-Enviament-Dades): Repositori amb la documentació que envia les trames cap als supermòduls.
+
 [TDF25 Generador sequencies](https://github.com/tecnoateneu/TDF25-Generador-sequencies): Repositori amb la decumentació per generar les seqüencies de moviment i llum.
